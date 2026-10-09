@@ -9,10 +9,9 @@
 ### *ENTIDADES Y ATRIBUTOS*
 
 
+**PERSONAJE** *Código, nombre, fecha de nacimiento, título nobiliario*
 
 **CASA:**  *Código, nombre, lema, nombre del asentamiento principal*
-
-**PERSONAJE** *Código, nombre, fecha de nacimiento, título nobiliario*
 
 ![Games of thrones](IMG/Diagrama_Games_of_thrones.png)
 
