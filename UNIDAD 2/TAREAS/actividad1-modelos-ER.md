@@ -14,4 +14,4 @@
 
 **PERSONAJE** *Código, nombre, fecha de nacimiento, título nobiliario*
 
-![Games of thrones](UNIDAD 2/TAREAS/IMG/Diagrama Games of thrones.png)
+![Games of thrones]
