@@ -8,6 +8,10 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
+
+
 **CASA:**  *Código, nombre, lema, nombre del asentamiento principal*
 
 **PERSONAJE** *Código, nombre, fecha de nacimiento, título nobiliario*
+
+!Gay mostrón](UNIDAD 2/TAREAS/IMG/Games of thrones.drawio.png)
