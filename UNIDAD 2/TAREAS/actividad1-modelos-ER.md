@@ -14,4 +14,4 @@
 
 **PERSONAJE** *Código, nombre, fecha de nacimiento, título nobiliario*
 
-![Gay mostrón](UNIDAD 2/TAREAS/IMG/Games of thrones.png)
+![Gay mostrón](UNIDAD 2/TAREAS/IMG/Diagrama Games of thrones.png)
