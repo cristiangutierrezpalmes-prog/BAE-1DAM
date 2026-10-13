@@ -18,6 +18,9 @@
 RELACIONES Y CARDINALIDADES
 
 PERTENECE (PERSONAJE – CASA)
+![CasayPersonaje](IMG/Personaje_pertenece_a_casa.png)
+
+
 
 Junto a	Cardinalidad	Lectura
 CASA	(1,1)	Un personaje pertenece a una y solo una casa
