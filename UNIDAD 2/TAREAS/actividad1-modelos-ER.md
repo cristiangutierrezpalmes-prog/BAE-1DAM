@@ -57,6 +57,8 @@ ENTRENADOR	(1,1)	Un ejemplar pertenece a un único entrenador
 
 EJEMPLAR	(0,N)	Un entrenador puede tener varios ejemplares (supuesto: puede no tener ninguno)
 
+![Entrenador_registra_ejemplar_pertenece_especie](IMG/Entrenador_registra_ejemplar_que_corresponde_especie.png)
+
 ## EJERCICIO 3
 
 
