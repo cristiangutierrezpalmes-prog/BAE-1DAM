@@ -71,13 +71,17 @@ EJEMPLAR	(0,N)	Un entrenador puede tener varios ejemplares (supuesto: puede no t
 
 ![BreakingBad](IMG/Diagrama_Breaking_Bad_BAE+.drawio.png)
 
-CORRESPONDE_A (EJEMPLAR – ESPECIE)
+RELACIONES Y CARDINALIDADES
+
+APARECE (PERSONAJE – EPISODIO)
+
+Atributos de la relación: tiempo en pantalla (aproximado), papel (principal/secundario)
 
 Junto a	Cardinalidad	Lectura
+PERSONAJE	(1,N)	Un episodio incluye al menos un personaje
+EPISODIO	(0,N)	Un personaje puede aparecer en muchos episodios o en ninguno todavía
 
-ESPECIE	(1,1)	Un ejemplar corresponde a una única especie
-
-EJEMPLAR	(0,N)	Una especie puede no haber sido capturada o tener varios ejemplares
+![Personaje_aparece](IMG/Personaje_aparece.png)
 
 ## EJERCICIO 4
 
@@ -102,6 +106,8 @@ Junto a	Cardinalidad	Lectura
 JUGADOR	(0,N)	Una construcción puede no tener colaboradores o tener varios
 
 CONSTRUCCIÓN	(0,N)	Un jugador puede colaborar en varias construcciones (supuesto: o en ninguna)
+
+![jugador_col_cons_mund_tie_cons](IMG/Jugador_colabora_const_mundo_tiene_const.png)
 
 ## EJERCICIO 5
 
