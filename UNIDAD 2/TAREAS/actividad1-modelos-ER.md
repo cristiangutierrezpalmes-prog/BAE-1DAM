@@ -115,3 +115,15 @@
 **PARTIDA:** *<u>Código</u>, fecha, mapa*
 
 ![Valorant](IMG/Diagrama_Elden_Ring.drawio.png)
+
+## EJERCICIO 9
+
+### *ENTIDADES Y ATRIBUTOS*
+
+**JUEGO** *<u>Código</u>, título y género*
+**CONSOLA** *<u>Código</u>, nombre, fecha de lanzamiento*
+**VERSIÓN** *<u>Código</u>, fecha de lanzamiento, precio inicial*
+**USUARIO** *<u>Código</u>, alias*
+**RESEÑAS** *<u>Código propio</u>, puntuación, usuario, comentario*
+![Versiones_Juegos](IMG/Nintendo_versiones_de_juego_DIAGRAMA_BAE.drawio.png)
+
