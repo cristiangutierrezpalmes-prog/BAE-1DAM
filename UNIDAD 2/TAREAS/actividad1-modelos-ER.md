@@ -95,9 +95,9 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
-**ZONA:** *C<u>Código</u>, nombre, nivel recomendado*
+**ZONA:** *<u>Código</u>, nombre, nivel recomendado*
 
-**JEFE:** *C<u>Código</u>, nombre, cantidad de runas primera vez*
+**JEFE:** *<u>Código</u>, nombre, cantidad de runas primera vez*
 
 **JUGADOR:** *<u>Código</u>, alias**
 
