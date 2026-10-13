@@ -134,6 +134,8 @@ JUGADOR	(2,N)	Cada partida registrada tiene al menos dos jugadores
 
 PARTIDA	(0,N)	Un jugador puede participar en muchas partidas o en ninguna aún
 
+![Escuadron_tiene_jugador_participa_en_partida](IMG/Escuadron_tiene_jugador_que_participa_partida.png)
+
 
 ## EJERCICIO 6
 
@@ -168,6 +170,8 @@ LUGAR	(0,N)	Un personaje puede visitar varios lugares
 
 PERSONAJE	(0,N)	Un lugar puede ser visitado por varios personajes
 
+![Personaje_tien_herm_pers_visit_lug](IMG/personaje_tiene_herm_pers_visita_lug.png)
+
 
 ## EJERCICIO 7
 
@@ -201,6 +205,8 @@ JUGADOR	(0,N)	Un jefe puede ser derrotado por muchos jugadores o por ninguno
 
 JEFE	(0,N)	Un jugador puede derrotar a muchos jefes o a ninguno
 
+[Zona_tien_jefe_jugador_derrota_jefe](IMG/zona_tiene_jefe_que_jugador_derrota.png)
+
 
 ## EJERCICIO 8
 
@@ -212,7 +218,8 @@ JEFE	(0,N)	Un jugador puede derrotar a muchos jefes o a ninguno
 
 **PARTIDA:** *<u>Código</u>, fecha, mapa*
 
-![Valorant](IMG/Diagrama_Elden_Ring.drawio.png)
+![Valorant](IMG/Diagrama_Valorant_BAE.drawio.png)
+
 
 RELACIONES Y CARDINALIDADES
 
@@ -227,6 +234,8 @@ JUGADOR	(0,N)	Un jugador registrado puede no haber jugado ninguna partida o juga
 AGENTE	(0,N)	Un agente puede no haber intervenido o ser usado en muchas partidas
 
 PARTIDA	(1,N)	Una partida debe contar con al menos un jugador
+
+![jugador_utiliza_agent_jug_en_partida](IMG/jugador_utiliza_agente_jugador_en_partida.png)
 
 ## EJERCICIO 9
 
@@ -277,4 +286,6 @@ Junto a	Cardinalidad	Lectura
 VERSIÓN	(1,1)	Una reseña se refiere a una versión concreta, no al juego
 
 RESEÑA	(0,N)	Una versión puede no tener reseñas o tener varias
+
+![Consola_dispone_juego_juego_a_su_vez_dispone_de_versión_versión_recibe_reseña_hecha_por_jugador](IMG/consola_dispone_juego_juego_dispone_version_recibe_reseña_hecha_por_jugador.png)
 
