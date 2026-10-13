@@ -9,7 +9,7 @@
 ### *ENTIDADES Y ATRIBUTOS*
 
 
-**PERSONAJE** *Código, nombre, fecha de nacimiento, título nobiliario*
+**PERSONAJE:** *Código, nombre, fecha de nacimiento, título nobiliario*
 
 **CASA:**  *Código, nombre, lema, nombre del asentamiento principal*
 
@@ -27,11 +27,11 @@
 ### *ENTIDADES Y ATRIBUTOS*
 
 
-**ENTRENADOR** *<u>Código</u>, nombre, región de origen*
+**ENTRENADOR:** *<u>Código</u>, nombre, región de origen*
 
-**EJEMPLAR** *<u>código propio</u> , nivel actual, mote (opcional), fecha de captura*
+**EJEMPLAR:** *<u>código propio</u> , nivel actual, mote (opcional), fecha de captura*
 
-**ESPECIE** *Nombre, tipo principal, número de pokedex*
+**ESPECIE:** *Nombre, tipo principal, número de pokedex*
 
 ![Pokemon](IMG/Diagrama_Pokémon.png)
 
@@ -41,9 +41,9 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
-**PERSONAJE** *<u>Código</u>, nombre, ocupación*
+**PERSONAJE:** *<u>Código</u>, nombre, ocupación*
 
-**EPISODIO** *<u>Código</u>, título, temporada, número de episodio, duracion en min*
+**EPISODIO:** *<u>Código</u>, título, temporada, número de episodio, duracion en min*
 
 ![BreakingBad](IMG/Diagrama_Breaking_Bad_BAE+.drawio.png)
 
@@ -53,11 +53,11 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
-**MUNDO** *<u>Código</u>, nombre, fecha de creación*
+**MUNDO:** *<u>Código</u>, nombre, fecha de creación*
 
-**CONSTRUCCIONES** *nombre, fecha de inicio, número*
+**CONSTRUCCIONES:** *nombre, fecha de inicio, número*
 
-**JUGADOR** *Nombre de usuario, código*
+**JUGADOR:** *Nombre de usuario, código*
 
 ![Minecrfat](IMG/Diagrama_Minecraft_BAE.drawio.png) 
 
@@ -66,13 +66,13 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
-**JUGADOR** *<u>código</u>, nombre de usuario, fecha de alta*
+**JUGADOR:** *<u>código</u>, nombre de usuario, fecha de alta*
 
-**ESCUADRÓN** *<u>código</u>, nombre
+**ESCUADRÓN:** *<u>código</u>, nombre
 
-**PARTIDAS** *<u>código</u>, fecha, hora, modo de juego*
+**PARTIDAS:** *<u>código</u>, fecha, hora, modo de juego*
 
-**PARTICIPACIÓN EN PARTIDA** *Posición, eliminaciones*
+**PARTICIPACIÓN EN PARTIDA:** *Posición, eliminaciones*
 
 ![Fortnite](IMG/Diagrama_Fortnite.drawio.png)
 
@@ -82,11 +82,11 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
-**PERSONAJES** *<u>Código</u>, ciudad de procedencia, nombre >apellido*
+**PERSONAJES:** *<u>Código</u>, ciudad de procedencia, nombre >apellido*
 
-**PARENTESCO**
+**PARENTESCO:**
 
-**LUGAR** *<u>Código</u>, nombre*
+**LUGAR:** *<u>Código</u>, nombre*
 
 ![Arcane](IMG/diagrama_ARCANE_BAE.drawio.png)
 
@@ -95,11 +95,11 @@
 
 ### *ENTIDADES Y ATRIBUTOS*
 
-**ZONA** *C<u>Código</u>, nombre, nivel recomendado*
+**ZONA:** *C<u>Código</u>, nombre, nivel recomendado*
 
-**JEFE** *C<u>Código</u>, nombre, cantidad de runas primera vez*
+**JEFE:** *C<u>Código</u>, nombre, cantidad de runas primera vez*
 
-**JUGADOR** *<u>Código</u>, alias**
+**JUGADOR:** *<u>Código</u>, alias**
 
 ![EldenRing](IMG/Diagrama_Elden_Ring.drawio.png)
 
@@ -108,10 +108,10 @@
 
 ### *ENTIDADES Y ATRIBUTOS* 
 
-**JUGADOR** *<u>Código</u>, nombre de usuario*
+**JUGADOR:** *<u>Código</u>, nombre de usuario*
 
-**AGENTES** *<u>Código</u>, nombre, rol*
+**AGENTES:** *<u>Código</u>, nombre, rol*
 
-**PARTIDA** *<u>Código</u>, fecha, mapa*
+**PARTIDA:** *<u>Código</u>, fecha, mapa*
 
 ![Valorant](IMG/Diagrama_Elden_Ring.drawio.png)
