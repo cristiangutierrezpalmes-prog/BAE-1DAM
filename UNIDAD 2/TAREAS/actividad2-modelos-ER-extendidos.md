@@ -6,7 +6,7 @@
 ### ENTIDADES:
 
 
-**VEHÍCULO**
+**VEHÍCULO** TOTAL DISJUNTA
 
 **BASE**
 
@@ -21,4 +21,36 @@ Un **VEHÍCULO** puede estar asignado o no a una **MISIÓN**
 
 Una **BASE** puede tener **VEHÍCULOS** o no tener ninguno
 
-UNa **MISIÓN** debe contar con uno o más **VEHÍCULOS**
+Una **MISIÓN** debe contar con uno o más **VEHÍCULOS**
+
+Para cada **VEHÍCULO** asignado se guarda la función que desempeña en la **MISIÓN**
+
+### ATRIBUTOS
+Código
+
+
+### SUBTIPOS
+
+VEHÍCULOS se divide en los subtipos:
+
+*TERRESTRE*
+
+*AÉREO*
+
+Del mismo modo TERRESTRE se divide en los subtipos:
+
+*CAMINANTE*
+
+y
+
+*DESLIZANTE*
+
+
+
+
+
+
+
+
+
+
