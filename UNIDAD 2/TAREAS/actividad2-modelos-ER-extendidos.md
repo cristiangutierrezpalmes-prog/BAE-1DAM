@@ -31,7 +31,7 @@ Código
 
 ### SUBTIPOS
 
-VEHÍCULOS se divide en los subtipos:
+**VEHÍCULOS** se divide en los subtipos:
 
 *TERRESTRE*
 
