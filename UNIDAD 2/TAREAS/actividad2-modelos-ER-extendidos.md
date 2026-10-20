@@ -69,6 +69,20 @@ y
 ### CARDINALIDADES
 
 
+Un **VEHÍCULO** puede estar asignado o no a una **MISIÓN** (0,1)
+
+Una **BASE** puede tener **VEHÍCULOS** o no tener ninguno (0.n)
+
+Una **MISIÓN** debe contar con uno o más **VEHÍCULOS** (1,n)
+
+Un vehículo debe estar asignado a una base (1.1)
+
+
+![Star Wars](IMG/Star_Wars_Bae.drawio.png)
+
+
+
+
 
 
 
