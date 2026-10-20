@@ -5,7 +5,9 @@
 ### ENTIDADES Y RELACIONES
 
 **VEHÍCULO**
+
 **BASE**
+
 **MISIÓN**
 
 Un **VEHÍCULO** puede estar asignado o no a una **MISIÓN**
