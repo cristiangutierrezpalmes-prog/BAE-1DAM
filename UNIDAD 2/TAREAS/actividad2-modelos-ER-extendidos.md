@@ -2,6 +2,7 @@
 
 ## Ejercicio 1. Star Wars: Flota de la Alianza Rebelde
 
+<br><br>
 
 ### ENTIDADES:
 
@@ -12,7 +13,7 @@
 
 **MISIÓN**
 
-
+<br><br><br>
 
 ### RELACIONES:
 
@@ -25,9 +26,7 @@ Una **MISIÓN** debe contar con uno o más **VEHÍCULOS**
 
 Para cada **VEHÍCULO** asignado se guarda la función que desempeña en la **MISIÓN**
 
-
-
-
+<br><br><br>
 
 ### ATRIBUTOS
 
@@ -37,7 +36,7 @@ De cada **VEHÍCULO** con el subtipo *DESLIZADORES* se registran los atributos: 
 
 De cada **VEHÍCULO** con el subtipo *CAMINANTE* se registran los atributos: *NÚMERO DE PATAS* y *CAPACIDAD DE TRANSPORTE*
 
-
+<br><br><br>
 
 ### SUBTIPOS
 
