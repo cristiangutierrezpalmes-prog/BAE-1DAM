@@ -32,9 +32,11 @@ Para cada **VEHÍCULO** asignado se guarda la función que desempeña en la **MI
 
 De cada **VEHÍCULO** se guarda un  *<ins>CÓDIGO<ins>*, Un *AÑO* de fabricación, un *NOMBRE* y un *ESTADO* del **VEHÍCULO**
 
-De cada **VEHÍCULO** con el subtipo *DESLIZADORES* se registran los atributos: *NÚMERO DE OCUPANTES* y *VELOCIDAD MÁXIMA*
+De cada **VEHÍCULO** con los subtipos *TERRESTRE* y *DESLIZADORES* se registran los atributos: *NÚMERO DE OCUPANTES* y *VELOCIDAD MÁXIMA*
 
-De cada **VEHÍCULO** con el subtipo *CAMINANTE* se registran los atributos: *NÚMERO DE PATAS* y *CAPACIDAD DE TRANSPORTE*
+De cada **VEHÍCULO** con los subtipos *TERRESTRE* y *CAMINANTE* se registran los atributos: *NÚMERO DE PATAS* y *CAPACIDAD DE TRANSPORTE*
+
+De cada **VEHÍCULO** con el subtipo *AÉREO* se registran los atributos: *ALTITUD MÁXIMA* y *TIPO DE PROPULSIÓN*
 
 <br><br><br>
 
@@ -53,6 +55,11 @@ Del mismo modo *TERRESTRE* se divide en los subtipos:
 y
 
 *DESLIZADORES*
+
+<br><br><br>
+
+
+
 
 
 
