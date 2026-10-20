@@ -6,6 +6,7 @@
 
 ### ENTIDADES:
 
+<br>
 
 **VEHÍCULO** TOTAL DISJUNTA
 
@@ -17,6 +18,7 @@
 
 ### RELACIONES:
 
+<br>
 
 Un **VEHÍCULO** puede estar asignado o no a una **MISIÓN**
 
@@ -29,6 +31,7 @@ Para cada **VEHÍCULO** asignado se guarda la función que desempeña en la **MI
 <br><br><br>
 
 ### ATRIBUTOS
+<br>
 
 De cada **VEHÍCULO** se guarda un  *<ins>CÓDIGO<ins>*, Un *AÑO* de fabricación, un *NOMBRE* y un *ESTADO* del **VEHÍCULO**
 
@@ -38,9 +41,14 @@ De cada **VEHÍCULO** con los subtipos *TERRESTRE* y *CAMINANTE* se registran lo
 
 De cada **VEHÍCULO** con el subtipo *AÉREO* se registran los atributos: *ALTITUD MÁXIMA* y *TIPO DE PROPULSIÓN*
 
+La entidad **BASE** tiene los atributos *PLANETA*, *CÓDIGO* y *NOMBRE*
+
+La entidad **MISIÓN** tiene los atributos *NOMBRE*, *CÓDIGO* Y *OBJETIVO*
+
 <br><br><br>
 
 ### SUBTIPOS
+<br>
 
 **VEHÍCULOS** se divide en los subtipos:
 
