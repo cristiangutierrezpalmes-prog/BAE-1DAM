@@ -37,7 +37,7 @@ Código
 
 *AÉREO*
 
-Del mismo modo TERRESTRE se divide en los subtipos:
+Del mismo modo *TERRESTRE* se divide en los subtipos:
 
 *CAMINANTE*
 
