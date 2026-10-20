@@ -26,7 +26,13 @@ Una **MISIÓN** debe contar con uno o más **VEHÍCULOS**
 Para cada **VEHÍCULO** asignado se guarda la función que desempeña en la **MISIÓN**
 
 ### ATRIBUTOS
-De cada VEHÍCULO se guarda un  *<ins>CÓDIGO<ins>*, Un *AÑO* de fabricación, un *NOMBRE* y un *ESTADO* del **VEHÍCULO**
+
+De cada **VEHÍCULO** se guarda un  *<ins>CÓDIGO<ins>*, Un *AÑO* de fabricación, un *NOMBRE* y un *ESTADO* del **VEHÍCULO**
+
+De cada **VEHÍCULO** con el subtipo *DESLIZADORES* se registran los atributos: *NÚMERO DE OCUPANTES* y *VELOCIDAD MÁXIMA*
+
+De cada **VEHÍCULO** con el subtipo *CAMINANTE* se registran los atributos: *NÚMERO DE PATAS* y *CAPACIDAD DE TRANSPORTE*
+
 
 
 ### SUBTIPOS
@@ -43,7 +49,7 @@ Del mismo modo *TERRESTRE* se divide en los subtipos:
 
 y
 
-*DESLIZANTE*
+*DESLIZADORES*
 
 
 
