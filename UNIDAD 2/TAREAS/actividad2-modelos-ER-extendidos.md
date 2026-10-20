@@ -2,13 +2,20 @@
 
 ## Ejercicio 1. Star Wars: Flota de la Alianza Rebelde
 
-### ENTIDADES Y RELACIONES
+
+### ENTIDADES:
+
 
 **VEHÍCULO**
 
 **BASE**
 
 **MISIÓN**
+
+
+
+### RELACIONES:
+
 
 Un **VEHÍCULO** puede estar asignado o no a una **MISIÓN**
 
