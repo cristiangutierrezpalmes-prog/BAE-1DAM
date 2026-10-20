@@ -81,6 +81,17 @@ Un vehículo debe estar asignado a una base (1.1)
 ![Star Wars](IMG/Star_Wars_Bae.drawio.png)
 
 
+Comprueba durante la revisión si el modelo permite representar:
+
+    un vehículo que no sea ni aéreo ni terrestre; no, porque es total y disjunta
+    un vehículo terrestre que no sea deslizador ni caminante; no, porque es especial y disjunta
+    un vehículo que sea a la vez deslizador y caminante; no, no puede ser ambas
+    una base sin vehículos; sí, una base puede no tener vehículos
+    una misión sin vehículos asignados; no, son claros con que no es posible
+    un vehículo asignado simultáneamente a dos misiones activas. no, el máximo es una misión
+
+
+
 
 ## Ejercicio 2. Stranger Things: Investigaciones en Hawkins
 
@@ -131,6 +142,18 @@ De cada **PARTICIPACIÓN** concreta se guarda la *FUNCIÓN DEL AGENTE*, *EL TURN
 <br><br><br>
 
 ![Star Wars](IMG/Stranger_Things_BAE.drawio.png)
+
+
+
+Comprueba durante la revisión si el modelo permite representar:
+
+    un agente que todavía no participa en investigaciones; Sí, es posible
+    una investigación con un solo agente; No, el mínimo es 2 
+    una investigación con varios agentes; Sí, es posible
+    una participación sin supervisor; No, no es posible
+    un agente que supervisa varias participaciones; Sí, es posible
+    un agente que intenta supervisar su propia participación. No, no está permitido
+
 
 
 <br><br><br>
@@ -186,6 +209,16 @@ De cada **MISIÓN** se guarda el *NIVEL DE PELIGRO*, <ins>*CÓDIGO*<ins>, *FECHA
 Los INTEGRANTES se dividen en los subtipos *DOCENTES* y *ESTUDIANTES*
 
 ![JJK](IMG/JJK_BAE.drawio.png)
+
+Comprueba durante la revisión si el modelo permite representar:
+
+    un integrante que todavía no es estudiante ni docente; sí, es posible
+    una persona que desempeña ambos papeles; sí, es posible
+    una misión sin docente responsable; no, no es posible
+    una misión sin estudiantes; no, no es posible
+    dos participaciones del mismo estudiante en la misma misión; no, no es posible
+    una participación en una misión cuyo nivel de peligro supera la energía maldita del estudiante. no, no es posible
+
 
 
 
