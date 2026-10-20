@@ -82,7 +82,7 @@ Un vehículo debe estar asignado a una base (1.1)
 
 
 
-## Ejercicio 1. Stranger Things: Investigaciones en Hawkins
+## Ejercicio 2. Stranger Things: Investigaciones en Hawkins
 
 <br><br>
 
@@ -133,13 +133,59 @@ De cada **PARTICIPACIÓN** concreta se guarda la *FUNCIÓN DEL AGENTE*, *EL TURN
 ![Star Wars](IMG/Stranger_Things_BAE.drawio.png)
 
 
+<br><br><br>
+
+
+### Ejercicio 3. Jujutsu Kaisen: academia de hechicería
 
 
 
+<br><br>
+
+### ENTIDADES:
+
+<br>
+
+**INTEGRANTE**
+
+**MISIÓN**
+
+<br><br><br>
+
+### RELACIONES Y CARDINALIDADES:
+
+> La academia de hechicería necesita una base de datos para registrar a sus integrantes y organizar sus misiones. Las reglas de este ejercicio son ficticias y están adaptadas para la actividad
+<br>
+
+En cada **MISIÓN** participa al menos un **ESTUDIANTE** (1,n)
+
+Un **ESTUDIANTE** puede participar en varias **MISIONES** o no haber participado en ninguna (0,n)
+
+de la **PARTICIPACIÓN** de cada **ESTUDIANTE** en cada **MISIÓN** se registra el papel asignado y una evaluación, que puede estar pendiente.
+
+Un **ESTUDIANTE** participa una sola vez en una misma **MISIÓN**
+
+Solo pueden participar **ESTUDIANTES** cuyo nivel de *ENERGÍA MALDITA* sea igual o superior al nivel de peligro de la misión.
+
+<br><br><br>
+
+### ATRIBUTOS
+<br>
+
+De cada **ESTUDIANTE** se guarda un  *<ins>CÓDIGO ÚNICO<ins>* que mantendran como **DOCENTES** si llegan a ello , Un *CURSO ACTUAL* y un *NIVEL DE ENERGÍA MALDITA*.
+
+De cada **DOCENTE** se registra un *<ins>CÓDIGO ÚNICO<ins>* que tienen desde que son **ESTUDIANTES**, *AÑOS DE EXPERIENCIA* Y *ESPECIALIDAD*.
+
+De cada **MISIÓN** se guarda el *NIVEL DE PELIGRO*, <ins>*CÓDIGO*<ins>, *FECHA* y *DESCRIPCIÓN*
 
 
+<br><br><br>
 
+### SUBTIPOS
 
+Los INTEGRANTES se dividen en los subtipos *DOCENTES* y *ESTUDIANTES*
+
+![JJK](IMG/JJK_BAE.drawio.png)
 
 
 
