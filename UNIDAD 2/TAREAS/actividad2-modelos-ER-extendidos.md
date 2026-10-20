@@ -25,6 +25,10 @@ Una **MISIÓN** debe contar con uno o más **VEHÍCULOS**
 
 Para cada **VEHÍCULO** asignado se guarda la función que desempeña en la **MISIÓN**
 
+
+
+
+
 ### ATRIBUTOS
 
 De cada **VEHÍCULO** se guarda un  *<ins>CÓDIGO<ins>*, Un *AÑO* de fabricación, un *NOMBRE* y un *ESTADO* del **VEHÍCULO**
